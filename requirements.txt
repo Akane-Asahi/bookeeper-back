@@ -3,3 +3,4 @@ torch
 sentence-transformers
 scikit-learn
 pandas
+gunicorn
